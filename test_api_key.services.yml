@@ -1,0 +1,7 @@
+## YAML Template.
+---
+services:
+  test_api_key.route_subscriber:
+    class: Drupal\test_api_key\Routing\RouteSubscriber
+    tags:
+      - {name: event_subscriber}

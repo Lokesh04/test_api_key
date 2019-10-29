@@ -1,0 +1,8 @@
+### YAML Template.
+#---
+#system.site:
+#  mapping:
+#    # Our field name is 'siteapikey'
+#    siteapikey:
+#      type: label
+#      label: 'Site API Keys'
